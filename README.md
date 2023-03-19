@@ -1,6 +1,6 @@
 ### Hi there, I'm [mrnekrozyt](e-z.bio/developer) 👋
 
-[![Website](https://img.shields.io/website?label=e-z.bio/developerf&style=for-the-badge&url=https%3A%2F%2Fe-z.bio/developer)](e-z.bio/developer)
+[![Website](https://img.shields.io/website?label=e-z.bio/developer&style=for-the-badge&url=https%3A%2F%2Fe-z.bio/developer)](e-z.bio/developer)
 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me? [Click Me!](https://discord.com/users/1044192328237195274)
