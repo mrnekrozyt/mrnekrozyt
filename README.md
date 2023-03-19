@@ -37,7 +37,7 @@
   <summary>⚡ GitHub Stats</summary>
 <br>
 <a href="https://github.com/mrnekrozyt">
-<img align="center" alt="mrnekrozyt | GitHub Stats" src="[https://github-readme-stats-eight-pink.vercel.app/api?username=mrnekrozyt&&show_icons=true&theme=tokyonight&layout=compact](https://github-readme-stats-eight-pink.vercel.app/api?username=mrnekrozyt&&show_icons=true&theme=tokyonight&layout=compact)"/>
+<img align="center" alt="mrnekrozyt | GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=mrnekrozyt&&show_icons=true&theme=tokyonight&layout=compact"/>
 <br>
 <br>
 <img align="center" src="(https://github-readme-streak-stats.herokuapp.com?user=mrnekrozyt&theme=tokyonight)](https://git.io/streak-stats)" alt="mrnekrozyt | GitHub Stats"/>
